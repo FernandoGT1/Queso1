@@ -4,6 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Sidebar from "../components/sidebar";
 import Navbar from "../components/navbar";
 
+
 const DatosQueso = () => {
   const chartContainer = useRef(null);
   const chartInstance = useRef(null);
